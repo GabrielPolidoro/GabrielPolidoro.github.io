@@ -1,4 +1,4 @@
-Porject link: 
+Project link: 
 https://gabrielpolidoro.github.io/projeto-android/
 
 Projeto site Android
